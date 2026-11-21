@@ -27,5 +27,5 @@ Recency–Frequency–Monetary (RFM) trading-activity measures, with Ward and K-
 
 ## AI use
 Claude was used to assist with external referencing sources and research as well as building the final github repository and structuring the files.
-Claude was also used to help format the report and with meeting the final word ocunt.
+Claude was also used to help format the report and with meeting the final word count.
 See the AI declaration in the submitted report.
