@@ -1,0 +1,11 @@
+Check,Result
+Duplicate dates,0
+Missing Adj Close / Close / Volume,15
+Non-positive prices,0
+Zero or negative volume,2
+Dates outside benchmark calendar,0
+Shares with splits (retained),53
+Shares paying dividends (retained),392
+Max |Close return| on any split day (retained),0.0766
+Irregular Adj Close / Close ratio (retained),0
+Review flags (retained),3

@@ -1,0 +1,24 @@
+,0
+Shares in common set,486
+Skew raw M / log1p M,11.684 / 1.079
+Skew R / F,3.646 / 0.425
+Skew return / beta,0.868 / 1.104
+"Outliers |z|>3 (ret, beta, R, F, logM)","6, 2, 11, 5, 7"
+Selected k risk-return / RFM,2 / 2
+Ward RR silhouette at k,0.339
+KMeans RR silhouette at k,0.387
+Ward RFM silhouette at k,0.368
+KMeans RFM silhouette at k,0.423
+Best Ward RR k by silhouette alone,2
+Best Ward RFM k by silhouette alone,2
+Sizes RR Ward / KMeans,92/394 | 143/343
+Sizes RFM Ward / KMeans,82/404 | 418/68
+ARI Ward vs KMeans RR / RFM,0.598 / 0.700
+KMeans n_init=1 inertia range RR,621.634 to 621.654 (n_init=50: 621.634)
+KMeans n_init=1 inertia range RFM,1066.832 to 1169.902 (n_init=50: 1066.832)
+Min ARI across seeds RR / RFM,1.0 / 1.0
+PCA variance PC1 / PC2 / total %,45.8 / 33.6 / 79.4
+Pearson R-F / R-logM / F-logM,-0.346 / 0.152 / 0.013
+Spearman R-F / R-logM / F-logM,-0.196 / 0.137 / -0.048
+ARI RFM Ward vs RF-only Ward,0.873
+Eta2 log1p M: full RFM / RF only,0.001 / 0.004

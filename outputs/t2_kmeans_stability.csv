@@ -1,0 +1,3 @@
+matrix,k,inertia_n_init_1_min,inertia_n_init_1_max,inertia_n_init_50,min_ARI_across_10_seeds
+risk_return,2,621.634,621.654,621.634,1.0
+rfm,2,1066.832,1169.902,1066.832,1.0

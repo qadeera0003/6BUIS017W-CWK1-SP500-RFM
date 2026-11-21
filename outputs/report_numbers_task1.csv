@@ -1,0 +1,33 @@
+,0
+Ticker retrieval date,2026-11-14 11:15 UTC
+Price download date,2026-11-14 11:17 UTC
+Tickers in list,503
+Included / Excluded,486 / 17
+Excluded - unequal history,10
+Excluded - other,7
+Trading days,1005
+Removed incomplete weeks,2025-01-03
+Weekly returns per share,207
+First / last return week,2021-01-15 / 2024-12-27
+Holiday-shortened weeks,37
+Shares with splits,53
+Observation date,2024-12-31
+60-session window,2024-10-07 to 2024-12-31
+No-event shares (R missing),0
+Common valid set,486
+Median mean weekly return %,0.262
+Mean weekly return range %,-0.447 to 1.777
+Median beta,0.95
+Beta range,0.06 to 3.78
+Median beta R2,0.28
+Median beta SE,0.101
+Median R days,11.0
+Median F,3.0
+Share with F = 0 (%),2.1
+Median M ($bn),16.68
+Max M ($bn) and ticker,1847.7 (TSLA)
+Skew of M / log10 M,11.68 / 1.08
+Worked example ticker,AAPL
+AAPL mean weekly return %,0.393
+AAPL beta (SE),1.17 (0.08)
+AAPL R / F / M($bn),11 / 2 / 623.3
