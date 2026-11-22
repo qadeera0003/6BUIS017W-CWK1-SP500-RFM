@@ -1,0 +1,18 @@
+,0
+ARI risk-return Ward vs RFM Ward,0.029
+Avg pairwise corr all shares,0.3
+Avg pairwise corr RR_Ward cluster 1,0.297
+Avg pairwise corr RR_Ward cluster 2,0.374
+Avg pairwise corr RFM_Ward cluster 1,0.306
+Avg pairwise corr RFM_Ward cluster 2,0.266
+Corr RR C1 vs RR C2 portfolios,0.897
+Corr RR C1 portfolio vs S&P 500,0.923
+Corr RR C2 portfolio vs S&P 500,0.931
+Corr RFM C1 portfolio vs S&P 500,0.941
+Corr RFM C2 portfolio vs S&P 500,0.943
+RR C1 over / under sector (pp),Health Care +2.3 / Information Technology -3.8
+RR C2 over / under sector (pp),Information Technology +16.3 / Health Care -9.7
+RFM C1 over / under sector (pp),Industrials +1.8 / Information Technology -1.3
+RFM C2 over / under sector (pp),Information Technology +6.8 / Industrials -8.7
+Data mart rows (daily fact),488430
+Data mart size MB,19.9
